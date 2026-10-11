@@ -12,7 +12,6 @@ This project uses Microsoft SQL Server to build a relational database and invest
 
 The project demonstrates how SQL can be used to transform structured data into meaningful findings and recommendations.
 
-> **Data note:** This project uses an illustrative dataset. The records should not be interpreted as verified official Environment Agency data.
 
 ## 🎯 Project Objectives
 
